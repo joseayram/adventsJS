@@ -25,7 +25,7 @@
 
 |  #  |  Reto                                     | Difficultad[^1] | Descripción                                     | Solución JS                                                                               |
 | :-: | :---------------------------------------: | :-------------: | :---------------------------------------------: | :---------------------------------------------------------------------------------------: |
-
+| 01  | First gift repeated!                      | 🟢              | [Leer](https://adventjs.dev/challenges/2023/1) | [Ver Solución](https://github.com/joseayram/adventsJS/blob/main/src/challenges/2023/01.js)|
 </details>
 
 ---
